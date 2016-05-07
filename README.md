@@ -15,6 +15,7 @@ A wiki of Guides, Scripts, Tutorials related to devops
   1. [Awk](#awk)
   1. [Sed](#sed)
   1. [Perl](#perl)
+  1. [Go](#go)
   1. [C](#c)
   1. [Javascript](#javascript)
   1. [Linux](#linux)
@@ -201,6 +202,12 @@ http://www.rexegg.com/regex-quickstart.html
 Indepth Tutorial
 
 http://perlmaven.com/perl-tutorial
+
+**[Back to top](#table-of-contents)**
+
+## Go
+
+[golang](https://golang.org/)
 
 **[Back to top](#table-of-contents)**
 
